@@ -1,8 +1,12 @@
-# StudyGroupHigherCategories
+# Study Group: Higher-Categories
 Dieses Repository dient zur Organisation einer Study Group zur Kategorientheorie.
 
 Der Termin wurde über folgendes Doodle ausgemacht: [Link](https://doodle.com/poll/fi3pgxm5zwe2yzre).
-Wir haben uns auf folgenden Termin geeinigt: **Freitags, von 12:15 bis ca. 14:00**
+
+Wir haben uns auf folgenden Termin geeinigt: **Freitags, von 12:15 bis ca. 14:00**.
+
+Wir treffen uns auf der Morgenstelle (Raum wird noch bekanntgegeben). Es ist genug Zeit davor ab 11:30 in der Mensa zu essen.
+
 
 ## Materialien
 
@@ -18,8 +22,16 @@ Wir lesen den Artikel von John Baez.
 
 ### 2.3.2018
 
+...
+
 ### 9.3.2018
+
+...
 
 ### 16.3.2018
 
+...
+
 ### 23.3.2018
+
+...
