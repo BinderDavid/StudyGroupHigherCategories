@@ -18,7 +18,7 @@ Wir treffen uns auf der Morgenstelle (Raum wird noch bekanntgegeben). Es ist gen
 
 ### 23.2.2018
 
-Wir lesen den Artikel von John Baez.
+Wir treffen uns um 12:15 an der Infobox in der Mensa und gehen dann zum Raum S10 den Tim reserviert hat. Wir lesen den Artikel von John Baez.
 
 ### 2.3.2018
 
