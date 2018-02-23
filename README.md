@@ -5,7 +5,7 @@ Der Termin wurde über folgendes Doodle ausgemacht: [Link](https://doodle.com/po
 
 Wir haben uns auf folgenden Termin geeinigt: **Freitags, von 12:15 bis ca. 14:00**.
 
-Wir treffen uns auf der Morgenstelle (Raum wird noch bekanntgegeben). Es ist genug Zeit davor ab 11:30 in der Mensa zu essen.
+Wir treffen uns auf der Morgenstelle im **Raum S10** im Mathebau. Es ist genug Zeit davor ab 11:30 in der Mensa zu essen.
 
 
 ## Materialien
@@ -22,7 +22,7 @@ Wir treffen uns um 12:15 an der Infobox in der Mensa und gehen dann zum Raum S10
 
 ### 2.3.2018
 
-...
+Wir treffen uns im Raum S10 und lesen Kapitel 1 + 2 aus dem Buch von Cheng und Lauda. Kapitel 1 ist eine generelle Einführung und Kapitel 2 behandelt die Definition von Penon.
 
 ### 9.3.2018
 
