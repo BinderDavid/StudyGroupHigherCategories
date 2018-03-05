@@ -13,6 +13,7 @@ Wir treffen uns auf der Morgenstelle im **Raum S10** im Mathebau. Es ist genug Z
 * John Baez, An Introduction to n-Categories [Link](https://arxiv.org/abs/q-alg/9705009)
 * Eugenia Cheng, Aaron Lauda, Higher-Dimensional Categories, an illustrated guide book [Link](http://cheng.staff.shef.ac.uk/guidebook/index.html)
 * Tom Leinster, Higher Operads, Higher Categories [Link](https://arxiv.org/abs/math/0305049)
+* Tom Leinster, A Survey of Definitions of n-Category [Link](https://arxiv.org/abs/math/0107188)
 
 ## Termine
 
@@ -26,7 +27,7 @@ Wir treffen uns im Raum S10 und lesen Kapitel 1 + 2 aus dem Buch von Cheng und L
 
 ### 9.3.2018
 
-...
+Wir besprechen erneut die Definition von Penon (Kapitel 2) aus dem Buch von Cheng + Lauda. Da wir letzte Woche festgestellt haben dass die dortige Definition nicht ganz formal ist lesen wir zusätzlich die formale Definition (Definition P) auf Seiten 14 bis 17 aus dem Überblicksartikel von Leinster. (Link ist oben unter den Materialien)
 
 ### 16.3.2018
 
