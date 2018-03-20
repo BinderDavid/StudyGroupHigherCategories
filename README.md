@@ -37,3 +37,28 @@ Wir besprechen die Definition(en) von Batanin und Leinster. In dem Artikel von L
 
 Da sich die Besprechung der Batanin-Definition als länger als geplant herausgestellt hat, besprechen wir sie diese Woche erneut.
 
+## Bemerkungen
+
+Zum Unterschied Q – Algebren in Penon:
+Angenommen, wir hätten ein Magma mit zwei 0-Zellen (1 und 2) auf denen es jeweils nur die Identitäts-1-Zellen id gibt.
+Außerdem gibt es eine 1-Zelle ![f](./f.png) von 1 nach 2, sowie alle Kompositionen
+
+![fi](./fi.png)
+
+(die Kompositionen ![fid](./fid.png) sind strikt)
+Außerdem gibt es die 2-Zellen ![2-cells](./2-cells.png) sowie deren Komposite wie unten im Bild angegeben, wobei alle Gleichungen strikt gelten.
+Alle höheren Zellen sind trivial.
+Des weiteren gibt es eine strikte ![omega](./omega.png)-Kategorie mit den gleichen 0-Zellen, den beiden Identitäts-1-Zellen sowie der 1-Zelle ![f-tilde](./f-tilde.png) und den 2-Zellen ![2-cells-tilde](./2-cells-tilde.png) auf ![f-tilde](./f-tilde.png) mit den Gleichungen
+
+![tilde-eqs](./tilde-eqs.png)
+
+sowie allen Kompositen.
+Auch hier sind alle höheren Zellen trivial.
+Nun gibt es zwei Möglichkeiten, ![contraction-f-f1](./contraction-f-f1.png) zu wählen, entweder ![alpha](./alpha.png) oder ![gamma](./gamma.png).
+Sei nun A die schwache ![omega](./omega.png)-Kategorie, die ![alpha](./alpha.png) als Kontraktion besitzt, während bei C entsprechend ![gamma](./gamma.png) als Kontraktion gewählt wurde.
+Als Kategorien sind diese beiden Äquivalent, es gibt also unter anderem zwei Morphismen von A nach C: Die Identität und den Morphismus ![theta](./theta.png), der die Paare ![alpha-beta](./alpha-beta.png) und ![gamma-delta](./gamma-delta.png) (und natürlich die entsprechenden höheren Zellen) vertauscht.
+Wenn man die beiden nun allerdings als Kontraktionen versteht, ist die Identität kein gültiger Morphismus, denn es gilt
+
+![bad-eq](./bad-eq.png).
+
+![Mögliche Kontraktion](./diagram.png)
