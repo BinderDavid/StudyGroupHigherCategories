@@ -31,8 +31,9 @@ Wir besprechen erneut die Definition von Penon (Kapitel 2) aus dem Buch von Chen
 
 ### 16.3.2018
 
-Wir besprechen die Definition(en) von Batanin und Leinster. In dem Artikel von Leinster entspricht das den Definitinoen B, L und L' (p. 18 - 30). Im Buch von Cheng und Lauda entspricht das dem Kapitel 3 (p. 25 - 50). Ingo wird den Inhalt vorbereiten und an der Tafel präsentieren.
+Wir besprechen die Definition(en) von Batanin und Leinster. In dem Artikel von Leinster entspricht das den Definitionen B, L und L' (p. 18 – 30). Im Buch von Cheng und Lauda entspricht das dem Kapitel 3 (p. 25 – 50). Paul wird den Inhalt vorbereiten und an der Tafel präsentieren.
 
 ### 23.3.2018
 
-...
+Da sich die Besprechung der Batanin-Definition als länger als geplant herausgestellt hat, besprechen wir sie diese Woche erneut.
+
