@@ -37,6 +37,14 @@ Wir besprechen die Definition(en) von Batanin und Leinster. In dem Artikel von L
 
 Da sich die Besprechung der Batanin-Definition als länger als geplant herausgestellt hat, besprechen wir sie diese Woche erneut.
 
+### 30.3.2018
+
+Karfreitag, es findet keine Besprechung statt.
+
+### 06.4.2018
+
+Wir lesen die opetope-Definition, also Definition X im Artikel von Leinster und Kapitel 4 im Buch von Cheng und Lauda. Präsentieren wird Ingo.
+
 ## Bemerkungen
 
 Zum Unterschied Q – Algebren in Penon:
