@@ -14,6 +14,7 @@ Wir treffen uns auf der Morgenstelle im **Raum S10** im Mathebau. Es ist genug Z
 * Eugenia Cheng, Aaron Lauda, Higher-Dimensional Categories, an illustrated guide book [Link](http://cheng.staff.shef.ac.uk/guidebook/index.html)
 * Tom Leinster, Higher Operads, Higher Categories [Link](https://arxiv.org/abs/math/0305049)
 * Tom Leinster, A Survey of Definitions of n-Category [Link](https://arxiv.org/abs/math/0107188)
+* John Baez, James Dolan, Higher-Dimensional Algebra III: n-Categories and the Algebra of Opetopes [Link](https://arxiv.org/abs/q-alg/9702014)
 
 ## Termine
 
@@ -44,6 +45,10 @@ Karfreitag, es findet keine Besprechung statt.
 ### 06.4.2018
 
 Wir lesen die opetope-Definition, also Definition X im Artikel von Leinster und Kapitel 4 im Buch von Cheng und Lauda. Präsentieren wird Ingo.
+
+### 13.4.2018
+
+Wir lesen Abschnitte 1 – 2.3 (p. 1 – 20) in Baez und Dolans Higher-Dimensional Algebra III. Präsentieren wir Aron.
 
 ## Bemerkungen
 
